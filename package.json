@@ -4,7 +4,7 @@
   "description": "Create acount and login endpoints...",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "lowdb": "^1.0.0",
     "nodeman": "^1.1.2"
   },
